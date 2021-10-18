@@ -1,0 +1,11 @@
+.suggestions {
+  list-style: none;
+  cursor: pointer;
+}
+
+.remove {
+  outline: none;
+  cursor: pointer;
+  border: 1px solid black;
+  background: none;
+}
